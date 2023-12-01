@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Hedvig+Letters+Serif:opsz@12..24&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #DDF8E8;
+}
+.infos{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 80px;
+    gap: 60px;
+}
+h1{
+    font-family: 'Hedvig Letters Serif';
+    color: #615055;
+}
+h3{
+    font-family: 'Hedvig Letters Serif';
+    color: #615055;
+    
+}
+.senha{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 5px;
+}
+
+#senha{
+    height: 60px;
+    width: 500px;
+    background-color: #CDD5D1;
+    border: #554640 1px solid;
+    border-radius: 10px;
+    padding-left: 10px;
+    font-family: 'Hedvig Letters Serif';
+    color: #615055;
+    font-size: 24px; 
+}
+h4{
+    color: #DDF8E8;
+    font-family: 'Hedvig Letters Serif';
+    font-size: 18px;
+}
+p{
+    font-family: 'Hedvig Letters Serif';
+    font-size: 15px;
+    color: #615055;
+}
+.titulo{
+    background-color: #bc4749;
+    padding: 10px 0 10px 10px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.regra{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    padding-bottom: 25px;
+    border: #554640 1px solid;
+    width: 600px;
+    border-radius: 10px;
+}
+#regras{
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+    margin-top: 100px;
+    gap: 20px;
+}
+.textoRegra{
+    padding-left: 10px;
+}

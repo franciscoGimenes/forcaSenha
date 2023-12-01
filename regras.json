@@ -1,0 +1,12 @@
+{
+    "regra1":"Sua senha deve ter pelomenos 5 caracteres",
+    "regra2":"Sua senha deve conter ao menos 1 número",
+    "regra3":"Sua senha deve conter ao menos 1 simbolo",
+    "regra4":"Sua senha deve conter ao menos 1 letra maiúscula",
+    "regra5":"Sua senha deve conter a palavra 'gato' em inglês",
+    "regra6":"Sua senha deve conter o resultado da multiplicação '(5*9*7)/9'",
+    "regra7":"Sua senha deve incluir o numero 37 em alagarismos romanos",
+    "regra8":"Sua senha deve conter a droga que 'transforma as pessoas em zumbi'",
+    "regra10":"Sua senha deve conter o @ do jogadro de basquete 'Kevin Durant' no instagram",
+    "regra9":"Sua senha deve conter o ano em queo jogador de futebol lionel messi ganhou sua 5º bola de ouro"
+}
