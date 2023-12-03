@@ -76,3 +76,48 @@ p{
 .textoRegra{
     padding-left: 10px;
 }
+div.cumprida.titulo{
+    background-color: green;
+}
+
+.Btn {
+    width: 100px;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    border: none;
+    border-radius: 4px;
+    overflow: hidden;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.164);
+    cursor: pointer;
+  }
+  
+  .text {
+    width: 65%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-color: #615055;
+    font-family: 'Hedvig Letters Serif';
+  }
+  
+  .svgIcon {
+    width: 35%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-color: #554640;
+  }
+  
+  .Btn:hover .text {
+    background-color: #4b3e42;
+  }
+  
+  .Btn:hover .svgIcon {
+    background-color: #3f332f;
+  }
